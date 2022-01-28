@@ -322,7 +322,7 @@ F1::
 	
 	Run, https://www.youtube.com/watch?v=mTb5d2-y2-E
 	WinActivate, 	Super Mario
-	Sleep, 3000
+	Sleep, 5000
 	SendInput, {Space}
 	Sleep, 500
 	SendInput, f
