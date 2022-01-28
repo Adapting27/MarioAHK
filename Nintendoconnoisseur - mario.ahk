@@ -4,6 +4,7 @@ if not A_IsAdmin
 	Run *RunAs "%A_ScriptFullPath%"
 
 F1::
+	MsgBox, Press F1 to start. You can show my code if you want, it's not special. v1.6
 	Soundbeep, 660, 100
 	Sleep, 150
 	Soundbeep, 660, 100
